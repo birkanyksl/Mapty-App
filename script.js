@@ -132,7 +132,7 @@ class App {
     if (type === "running") {
       const cadence = +inputCadence.value;
 
-      // Check if data is valid
+      //Check if data is valid
       if (
         // !Number.isFinite(distance) ||
         // !Number.isFinite(duration) ||
